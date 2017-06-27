@@ -1,0 +1,30 @@
+html{
+  font-family: Helvetica;
+}
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+.main-banner {
+background-image: url(file:///Users/francisca/Documents/Projects/Dasmotos/Resources/pattern.jpeg);
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+#title-brush {
+  background-color: mediumspringgreen;
+}
+#title-frame {
+  background-color: lightcoral;
+}
+#title-paint {
+  background-color: skyblue;
+}
+.price {
+  font-weight: bold;
+  color: blue;
+}
